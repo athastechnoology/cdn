@@ -607,7 +607,7 @@ body,button,input,select,textarea {
 }
 
 .offcanvas-backdrop.show {
-    opacity: .5
+    opacity: .1
 }
 
 .offcanvas-header {
