@@ -1134,7 +1134,7 @@ form fieldset > label{font-size:15px;font-weight:600;line-height:28px;letter-spa
 .s-banner.style-absolute .image img{min-height:500px;object-fit:cover;object-position:center;}
 .banner-benefit .s-box-title{margin-bottom:26px;}
 .banner-benefit .br-line{max-width:407px;background-color:var(--text-6);margin-bottom:20px;}
-.s-contact{background-image:url("https://athastechnoology.com/asset/images/banner/cta.jpg");background-size:cover;background-repeat:no-repeat;border-radius:5px;overflow:hidden;}
+.s-contact{background-image:url("https://athastechnoology.com/asset/images/cta.webp");background-size:cover;background-repeat:no-repeat;border-radius:5px;overflow:hidden;}
 .contact-form-wrap{background-color:var(--white);padding:15px 0px;}
 .contact-form-wrap .wrapper-top{padding:0px 15px 15px;}
 .contact-form-wrap .wrapper-inner{padding:15px;}
